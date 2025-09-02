@@ -1,5 +1,4 @@
 # Object-Oriented-Javascript
-
 This repository demonstrates key Object-Oriented Programming (OOP) concepts in JavaScript through practical examples. Each folder covers a major OOP principle with sample code and HTML files for easy experimentation.
 
 ## Folder Structure
